@@ -16,12 +16,10 @@
 ;html
   ;head
     ;meta(charset "utf-8");
-    ;title: ~litpub status
+    ;title:"{<p.bek>} status"
   ==
   ;body
-  ;main
-    ;h1: ~litpub status
-      ;p: ~litpub is online with a base hash of {<.^(@uv %cz /=base/(scot %da now))>}
-    ==
+    ;h1:"{<p.bek>} status"
+    ;p:"{<p.bek>} is online with a base hash of {<.^(@uv %cz /=base/(scot %da now))>}"
   ==
 ==
